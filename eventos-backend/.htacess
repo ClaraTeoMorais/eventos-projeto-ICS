@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Gerenciar eventos"
+AuthUserFile /var/www/html/site-backend/.httpasswd
+Require valid-user
