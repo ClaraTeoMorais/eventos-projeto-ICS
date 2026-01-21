@@ -39,4 +39,5 @@ insert into Evento values (
     (5, 'Projeto de Extensão em Comunidades Locais',
     'Evento de lançamento de ações de extensão voltadas para inclusão digital.',
     '2026-04-02', '08:00:00', 'Miniauditorio do bloco C'
-    );
+    )
+);
