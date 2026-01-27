@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="mb-4">Controle de Eventos</h1>
+        <h1 class="mb-4">Controle de Eventos - Backend</h1>
         <a href="views/categorias/index_categoria.php" class="btn btn-secondary">Gerenciar Categorias</a>
         <a href="views/eventos/index_evento.php" class="btn btn-primary">Gerenciar Eventos</a>
     </div>
